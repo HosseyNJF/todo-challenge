@@ -1,0 +1,16 @@
+marshmallow~=3.17.0
+flask~=2.2.2
+flask-restful~=0.3.9
+flask-migrate~=3.1.0
+flask-sqlalchemy~=2.5.1
+flask-marshmallow~=0.14.0
+flask-jwt-extended~=4.4.4
+marshmallow-sqlalchemy~=0.28.1
+marshmallow_enum~=1.5.1
+psycopg2==2.9.3
+python-dotenv~=0.20.0
+passlib~=1.7.4
+apispec[yaml]~=5.2.2
+apispec-webframeworks~=0.5.2
+tox~=3.25.1
+gunicorn~=20.1.0
